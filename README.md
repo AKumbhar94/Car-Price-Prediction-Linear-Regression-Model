@@ -1,6 +1,6 @@
 # Car-Price-Prediction-Linear-Regression-Model
 This project uses a linear regression model to predict the prices of used cars based on various features such as the car's age, mileage, make, model, engine size, fuel type, etc. The model is trained using a dataset of historical car sales and evaluates how factors influence the price.
-# Dataset
+## Dataset
 The dataset consists of several columns that describe the attributes of used cars: 
 Car Make and Model: The brand and specific model of the car (e.g., Toyota Camry, Honda Accord).
 Year of Manufacture: The year the car was manufactured.
